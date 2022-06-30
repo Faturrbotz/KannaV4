@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283813063969'] //ur owner number
-global.ownername = "FATURRAHMAN AFRIZAL"
+global.owner = ['6287837703726'] //ur owner number
+global.ownername = "Fauzi"
 global.ytname = "https://tiktok.com/@gw.faturr" //ur yt chanel name
-global.socialm = "GitHub: Faturrbotz" //ur github or insta name
+global.socialm = "GitHub: Fauzibotz" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
 global.botname = "KannaBOT-MD" //ur bot name
 global.websitex = "https://tiktok.com/@gw.faturr" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "KannaBOT-MD\n\n\n\n\n\n\ "
-global.author = "By FATURRAHMAN"
+global.packname = "FauzuBOT-MD\n\n\n\n\n\n\ "
+global.author = "By Fauzi"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283813063969'] //ur owner tag
-global.ownernummenu = ['6283813063969'] //ur owner number in menu and all
-global.watermark = "Created By © Faturr." //ur watermark
+global.ownertag = ['6287837703726'] //ur owner tag
+global.ownernummenu = ['6287837703726'] //ur owner number in menu and all
+global.watermark = "Created By © Fauzi." //ur watermark
 global.botscript = "www.xnxx.com"
 global.linkz1 = "https://tiktok.com/@gw.faturr"
 global.linkz2 = "-"
@@ -89,7 +89,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.lolhuman = "KaysaS"
+global.lolhuman = "Fauzi"
 global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
